@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: amazon-container
-        image: goodluck101/amazon:1
+        image: goodluck101/amazon:
         ports:
         - containerPort: 3000
         
